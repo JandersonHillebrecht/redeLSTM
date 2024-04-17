@@ -2,5 +2,6 @@
   "Date": "Date",
   "parameter1": "Open",
   "parameter2": "Close",
-  "parameter3": "volume"
+  "parameter3": "volume",
+  "parameter4": "sma"
 } 
